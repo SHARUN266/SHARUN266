@@ -41,10 +41,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/sharun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sharun" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sharun-3918581b2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sharun" height="30" width="40" /></a>
 <a href="https://codesandbox.com/sharun266" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="sharun266" height="30" width="40" /></a>
-<a href="https://fb.com/sharun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sharun" height="30" width="40" /></a>
-<a href="https://instagram.com/sharunalvi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sharunalvi" height="30" width="40" /></a>
+
+
 <a href="https://www.hackerearth.com/@sharun266" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@sharun266" height="30" width="40" /></a>
 </p>
 
