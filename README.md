@@ -1,72 +1,142 @@
-<h1 align="center">Hi 👋, I'm SHARUN</h1>
-<h3 align="center">A passionate frontend developer from India❤</h3>
+<!-- <h1 align="left" >Hey there I'm <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, Anup Kamble </h1> -->
+ ### Hi there 👋
+<img src="https://readme-typing-svg.herokuapp.com?font=Lobster+Daughter&color=FF7722&size=20&lines=It's+Sharun!;+FULL-Stack+Web+Developer...👨🏻‍💻;" style="width: 80%;">
+<img src ="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" align="right" width="200" height="200"/>
+<h3><samp><strong>You have finally discovered my Github profile. Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.</strong></samp></h3> 
+<h3><i>Happy Coding!</i> 😊</h3>
+<hr>
 
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;**_About me ...._** <br>
+- 🤔 I use daily `.js`,` .css`, `.html` <br>
+- 🛠 I’m currently learning about **AWS and docker**🥰 <br>
+- 🔥 I use to write code on **[leetcode](https://leetcode.com/SHARUN266/)** <br>
+- 🌱 I’m looking to collaborate on: **Contribute more to Open Source projects.** <br>
+- ⚡ I’m looking for help with anything **I am currently learning! 😅**. <br>
+- 💬 Ask me about anything, I am happy to help, **only if the ball is in my court!😉**<br>
+- ✍️ Fun fact : _I Always try to learn something new and then sleep till it store in the brain_ 😎<br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sharun266&label=Profile%20views&color=0e75b6&style=flat" alt="sharun266" /> </p>
+<img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
+ <hr>
 
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;**_Connect with me ...._**
+<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px">
 
-<p align="center">
-    <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img
-            src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=5468FF&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Full-Stack+web+developer." /></a>
+<p>
+  <a href="mailto:sharunattari266@gmail.com">
+    <img align="left" src="https://github.com/SHARUN266/SHARUN266/blob/main/mail.png" width="32px"  />
+  </a>
+  <a href="https://www.linkedin.com/in/sharun266/">
+    <img align="left" src="https://github.com/SHARUN266/SHARUN266/blob/main/linked-in-alt.svg" width="28px" />
+  </a>
+  <a href="https://leetcode.com/SHARUN266/">
+    <img align="left" src="https://github.com/SHARUN266/SHARUN266/blob/main/leetcode.png" width="24px"  />
+  </a>
+  
+   
+   <br>
+ <hr>
+
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;**_Professional Details ...._**
+<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px"> <br>
+
+<a href="https://anup-kamble.vercel.app/">
+        <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://port-folio-fawn-two.vercel.app/" />
+    </a>
+    <a title="anup.kamble.207@gmail.com" href="https://drive.google.com/file/d/1KlTvKAuF4n9Nroy5cI-UUnNIsfjXhTMw/view?usp=share_link">
+        <img align="center" src="https://img.shields.io/badge/Resume-D14836?style=for-the-badge&logo=resume&logoColor=white" alt="anup.kamble.207@gmail.com" />
+    </a>
+  
 </p>
 
-<div align="center" display="flex">
-    <img width="50%" src="https://i.ibb.co/T1B2pf5/Mern-logo-repo.png" alt="Mern-logo-repo">
-<!--     <img align="" alt="coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/18181eb39eec9784db256e246954adba.gif"> -->
-    <img align="" alt="coding" width="400" src="https://user-images.githubusercontent.com/56001279/169039511-a3887a25-f6aa-449c-a269-82372aaa8618.gif"/>
-</div>
-
-
-
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharun266&label=Profile%20views&color=0e75b6&style=flat" alt="sharun266" /> </p> -->
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sharun266" alt="sharun266" /></a> </p>
-
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966">
-
-## About Me
-
-<!-- <img align='right' src="https://media.bitdegree.org/storage/media/images/2018/08/what-is-a-web-developer.jpg" width="260" height='230'> -->
-⚡Enthusiastic aspiring full-stack web developer specialized in MERN stack having fascination towards computer and technology. Keen to create new and innovative websites by showcasing my skills. Apart from that a great team player, ability to work with different kinds of people with different thinkings. In my spare time, I like to gain skills by which I can create something productive. I am looking to start my career as a web-developer with a reputed firm driven by technology.
-
+<img src ="https://github.com/SHARUN266/SHARUN266/blob/main/imhd.gif" align="right" width="260" height="260" />
 <br>
-
-- 🌱 I’m currently learning in **Masai school (Full Stack Developer)**
-
-- 👨‍💻 All of my projects are available at  [Portfolio](https://sharun266.github.io/Sharun-portfolio/)
-
-- 💬 Ask me about **Javascript ,React ,Redux**
-
-- 📫 How to reach me **sharunattari266@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/sharun-3918581b2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sharun" height="30" width="40" /></a>
-<a href="https://codesandbox.com/sharun266" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="sharun266" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@sharun266" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@sharun266" height="30" width="40" /></a>
+ <hr>
+ <h4><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;Tech Stack..</h4>
+<p >
+ <img src="https://img.shields.io/badge/javascript%20-%23F7DF1.svg?&style=for-the-badge&logo=javascript&logoColor=white" alt="javascript" />&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="html" />&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="css" />&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" />&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="materialUi" />&nbsp;&nbsp;
+ <br/>
+ <img src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white" alt="chakraUi"/>&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" alt="json" />&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled-component" />&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/Node.js%20-%23F7DF1E.svg?&style=for-the-badge&color=6DB35A&logo=Node.js&logoColor=white" alt="node.js"/>&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="express"/>&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/MongoDB%20-%23F7DF1E.svg?&style=for-the-badge&color=f60c88&logo=MongoDB&logoColor=white" alt="mongodb"/>&nbsp;&nbsp;
+ <br/>   
 </p>
 
-<h3 align="center" gap="2rem">Languages and Tools:</h3>
-<p margin="2rem" align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
-
-<p></p>
-<div align="center">
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sharun266&theme=neon-dark)](https://git.io/streak-stats)
-</div>
-
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharun266&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) -->
-<p align="center">
-<a href="https://github.com/SHARUN266"><img src="https://github-readme-stats.vercel.app/api?username=SHARUN266&theme=radical&show_icons=true&hide=&count_private=true&hide_border=true&show_icons=true" alt="sharun266's GitHub stats" /></a>
+<hr>
+<h4><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;My working tools..</h4>
+<p>
+  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Git%20-%23F7DF1E.svg?&style=for-the-badge&color=blue&logo=Git&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" alt="replit" />&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="codepen" />&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman"/>&nbsp;&nbsp;
+ <br/>
+  <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white" alt="codesandbox" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="netlify" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="vercel" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="canva" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" alt="prettier" />&nbsp;&nbsp;
+  
 </p>
-<!-- title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000& -->
+<hr>
 
-<div align="center">
+<h4 align="center"><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;Visitor's count :eyes:</h4>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharun266&theme=radical)
-</div>
+<p align="center"><img src="https://profile-counter.glitch.me/{SHARUN266}/count.svg" alt="SHARUN266 :: Visitor's Count" /></p>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=sharun266&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<hr>
+ <p align="center" ><img src="https://github-profile-trophy.vercel.app/?username=SHARUN266&theme=vue" alt=""/> </p>
+ <hr>
+
+ <img align="right" width=250px height=250px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+
+<p align="left">
+<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>🐱My Github stats:</b></i> 
+</p>
+
+<p align="left" >
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SHARUN266&theme=chartreuse-dark"  />
+</p>
+ 
+<p>
+<a href="https://github.com/SHARUN266"><span>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SHARUN266&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=SHARUN266&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="400px"/>
+</span></a> </p>
+
+<br/><br/><br/><br/><br/><br/><br/><br/><br/>
+
+<hr clear="both">
+ <br/>
+<p align="center">
+<a href="https://github.com/SHARUN266"><span>
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SHARUN266&theme=dracula" />
+</span></a> </p>
+
+ <br/>
+
+<hr clear="both">
+<!-- 
+<img src = 'https://raw.githubusercontent.com/MarikIshtar007/MarikIshtar007/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right' height=180px width="300px"/> -->
+
+
+<br/>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>**I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!**</b></em> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
+
+<code><a target="_blank" rel="noopener noreferrer" href="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/marquee.svg"><img align="center" height="70" alt="Thanks" width="100%" src="https://github.com/Kushal997-das/Kushal997-das/raw/master/Profile%20generator/marquee.svg" style="max-width: 100%;"></a></code>
+
+
+![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/bottom_header.svg)
 
 ### 😜Here's a Joke for you:
 
